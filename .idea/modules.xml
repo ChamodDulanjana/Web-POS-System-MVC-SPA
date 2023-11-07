@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Web POS System.iml" filepath="$PROJECT_DIR$/Web POS System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Web POS System MVC SPA.iml" filepath="$PROJECT_DIR$/.idea/Web POS System MVC SPA.iml" />
     </modules>
   </component>
 </project>
